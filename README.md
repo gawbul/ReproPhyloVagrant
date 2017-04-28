@@ -7,8 +7,8 @@ This Vagrantfile creates a Ubuntu 14.04 LTS image with a working ReproPhylo inst
 Run the following to start the VM:
 
 ```
-git clone https://github.com/gawbul/ReproPhyloVagrant
-cd ReproPhyloVagrant
+git clone https://github.com/gawbul/vagrant-reprophylo
+cd vagrant-reprophylo
 vagrant up
 vagrant ssh
 ```
